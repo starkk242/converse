@@ -3,7 +3,7 @@ from threading import Thread, Lock, Condition
 import pickle
 import socket
 
-SOCK_IP = '127.0.0.1'
+SOCK_IP = '127.0.0.1'#Gcloud instance internal ip
 SOCK_PORT = 9001
 
 class Client:

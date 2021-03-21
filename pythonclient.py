@@ -21,7 +21,7 @@ from socket import timeout
 
 
 
-SERVER_IP = '35.226.9.10'
+SERVER_IP = '34.70.181.155'
 # SERVER_IP = '0.0.0.0'
 SERVER_PORT = 9001
 BUFMAX = 512
